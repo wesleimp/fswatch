@@ -3,7 +3,7 @@ module github.com/wesleimp/fswatch
 go 1.18
 
 require (
-	github.com/charmbracelet/lipgloss v0.5.0
+	github.com/charmbracelet/lipgloss v0.6.0
 	github.com/fsnotify/fsnotify v1.5.4
 )
 
