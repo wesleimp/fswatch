@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/charmbracelet/lipgloss v0.5.0
-	github.com/fsnotify/fsnotify v1.5.4
+	github.com/fsnotify/fsnotify v1.6.0
 )
 
 require (
@@ -21,5 +21,5 @@ require (
 
 require (
 	github.com/urfave/cli/v2 v2.10.3
-	golang.org/x/sys v0.0.0-20220622161953-175b2fd9d664 // indirect
+	golang.org/x/sys v0.0.0-20220908164124-27713097b956 // indirect
 )
